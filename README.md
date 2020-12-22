@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=ivanjtm&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs&include_all_commits=true">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanjtm&hide_border=true&langs_count=30">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanjtm&layout=compact&hide_border=true&langs_count=30">
 </p>
 
 
