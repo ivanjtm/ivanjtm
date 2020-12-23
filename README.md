@@ -8,11 +8,11 @@
  > 
 > 📦 238.8 kB Used in Github's Storage 
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
-> 📜 8 Public Repositories 
+> 📜 3 Public Repositories 
  > 
-> 🔑 7 Private Repositories  
+> 🔑 12 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
