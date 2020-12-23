@@ -1,6 +1,4 @@
 ### Hi there I'm ivan 👋
-
-Here are some information of my activity in github, the most used languages might be a little wrong because of private repos
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue)
 
