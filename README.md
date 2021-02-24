@@ -1,4 +1,7 @@
 ### Hi there I'm ivan 👋
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b8badae6499a4b5cb7e3ac81735a1f48)](https://app.codacy.com/gh/ivanjtm/ivanjtm?utm_source=github.com&utm_medium=referral&utm_content=ivanjtm/ivanjtm&utm_campaign=Badge_Grade_Settings)
+
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
