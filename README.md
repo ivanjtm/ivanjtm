@@ -2,13 +2,13 @@
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 75 Contributions in the Year 2021
+> 🏆 77 Contributions in the Year 2021
  > 
 > 📦 333.2 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 9 Public Repositories 
+> 📜 10 Public Repositories 
  > 
 > 🔑 20 Private Repositories  
  > 
