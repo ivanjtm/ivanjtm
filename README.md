@@ -1,6 +1,6 @@
 <h1 align="center">Hi there I'm ivan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
 
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/ivanjtm)
+[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivanjtm)
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
