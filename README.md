@@ -1,4 +1,4 @@
-<h1>Hi there I'm ivan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
+<h1 align="center">Hi there I'm ivan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
 <div align="center">
 <img src="http://github-readme-streak-stats.herokuapp.com?user=ivanjtm&hide_border=true&background=00000000&border=FFFFFF00&sideNums=A8A8A8&sideLabels=A8A8A8&currStreakNum=FFC93C&dates=A8A8A8)](https://git.io/streak-stats"/>
 </div>
@@ -95,6 +95,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
  Last Updated on 27/06/2021
 <!--END_SECTION:waka-->
+ 
 
 <!--
 <p align="center">
