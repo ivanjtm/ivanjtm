@@ -1,4 +1,7 @@
 <h1>Hi there I'm ivan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
+<div align="center">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=ivanjtm&hide_border=true&background=00000000&border=FFFFFF00&sideNums=A8A8A8&sideLabels=A8A8A8&currStreakNum=FFC93C&dates=A8A8A8)](https://git.io/streak-stats"/>
+</div>
 
 **👦🏻 Social Media**
 
@@ -13,7 +16,6 @@
 ![Ram 16GB](https://img.shields.io/badge/RAM-16GB-230071C5?style=flat-square&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/Mac%20OS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-
 
 
 <!--START_SECTION:waka-->
