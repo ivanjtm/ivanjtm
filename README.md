@@ -17,7 +17,6 @@
 ![Mac OS](https://img.shields.io/badge/Mac%20OS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
-
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
