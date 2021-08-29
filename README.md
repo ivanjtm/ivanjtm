@@ -43,11 +43,3 @@ Mac                      13 hrs 11 mins      ███████████�
 <!--END_SECTION:waka-->
 **📈 Languages**
  ![ivanjtm's languages](https://wakatime.com/share/@ivanjtm/1a3a0d34-f38e-48fb-8fe5-dae4ef478a5f.svg)
-
-<!--
-<p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=ivanjtm&show_icons=true&count_private=true&theme=default&hide_border=true&include_all_commits=true?count_private=true">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanjtm&layout=compact&hide_border=true&langs_count=50">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ivanjtm&hide_border=true"> 
-</p>
--->
