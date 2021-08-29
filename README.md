@@ -39,7 +39,7 @@ Mac                      13 hrs 11 mins      ███████████�
 ```
 
 
- Last Updated on 28/08/2021
+ Last Updated on 29/08/2021
 <!--END_SECTION:waka-->
 **📈 Languages**
  ![ivanjtm's languages](https://wakatime.com/share/@ivanjtm/1a3a0d34-f38e-48fb-8fe5-dae4ef478a5f.svg)
