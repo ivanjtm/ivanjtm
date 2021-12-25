@@ -19,22 +19,19 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-533%20hrs%207%20mins-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: America/Monterrey
 
 💬 Programming Languages: 
-Blade Template           9 mins              █████████████████████░░░░   87.47% 
-PHP                      1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.53%
+No Activity Tracked This Week
 
 🔥 Editors: 
-PhpStorm                 11 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      11 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
