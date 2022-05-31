@@ -27,19 +27,18 @@
 ⌚︎ Time Zone: America/Monterrey
 
 💬 Programming Languages: 
-Java                     58 mins             ██████████████████████░░░   90.05% 
-YAML                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.95%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Eclipse                  1 hr 4 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 4 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 31/05/2022 05:19:08 UTC
+ Last Updated on 31/05/2022 06:16:07 UTC
 <!--END_SECTION:waka-->
 **📈 Languages**
  ![ivanjtm's languages](https://wakatime.com/share/@ivanjtm/a32f83c6-d0c9-49a4-a5ae-d0440b950377.svg)
