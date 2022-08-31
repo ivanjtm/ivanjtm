@@ -19,7 +19,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-689%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-689%20hrs%2026%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -38,7 +38,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 31/08/2022 20:14:06 UTC
+ Last Updated on 31/08/2022 21:12:21 UTC
 <!--END_SECTION:waka-->
 **📈 Languages**
  ![ivanjtm's languages](https://wakatime.com/share/@ivanjtm/a32f83c6-d0c9-49a4-a5ae-d0440b950377.svg)
