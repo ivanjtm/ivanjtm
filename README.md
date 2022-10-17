@@ -19,7 +19,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-751%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-751%20hrs%2040%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -44,7 +44,7 @@ Windows                  7 hrs 56 mins       ███████████�
 ```
 
 
- Last Updated on 17/10/2022 15:20:07 UTC
+ Last Updated on 17/10/2022 16:30:22 UTC
 <!--END_SECTION:waka-->
 **📈 Languages**
  ![ivanjtm's languages](https://wakatime.com/share/@ivanjtm/a32f83c6-d0c9-49a4-a5ae-d0440b950377.svg)
