@@ -27,19 +27,18 @@
 ⌚︎ Time Zone: America/Monterrey
 
 💬 Programming Languages: 
-SQL                      9 mins              ████████████████████████░   96.24% 
-YAML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   3.76%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  9 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  9 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 03/11/2022 06:17:19 UTC
+ Last Updated on 03/11/2022 07:11:00 UTC
 <!--END_SECTION:waka-->
 **📈 Languages**
  ![ivanjtm's languages](https://wakatime.com/share/@ivanjtm/a32f83c6-d0c9-49a4-a5ae-d0440b950377.svg)
