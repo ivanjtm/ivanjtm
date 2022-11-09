@@ -21,8 +21,24 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-754%20hrs%2028%20mins-blue)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 09/11/2022 06:19:37 UTC
+```text
+⌚︎ Time Zone: America/Monterrey
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+
+ Last Updated on 09/11/2022 07:14:08 UTC
 <!--END_SECTION:waka-->
 **📈 Languages**
  ![ivanjtm's languages](https://wakatime.com/share/@ivanjtm/a32f83c6-d0c9-49a4-a5ae-d0440b950377.svg)
