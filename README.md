@@ -24,7 +24,7 @@
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: America/Monterrey
+🕑︎ Time Zone: America/Monterrey
 
 💬 Programming Languages: 
 No Activity Tracked This Week
@@ -34,11 +34,10 @@ No Activity Tracked This Week
 
 💻 Operating System: 
 No Activity Tracked This Week
-
 ```
 
 
- Last Updated on 22/02/2023 17:09:43 UTC
+ Last Updated on 22/02/2023 22:08:36 UTC
 <!--END_SECTION:waka-->
 **📈 Languages**
  ![ivanjtm's languages](https://wakatime.com/share/@ivanjtm/a32f83c6-d0c9-49a4-a5ae-d0440b950377.svg)
