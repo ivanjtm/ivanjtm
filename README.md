@@ -19,7 +19,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-840%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-838%20hrs%2025%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -41,7 +41,7 @@ Mac                      11 hrs 18 mins      ███████████�
 ```
 
 
- Last Updated on 16/11/2023 05:09:19 UTC
+ Last Updated on 16/11/2023 06:12:48 UTC
 <!--END_SECTION:waka-->
 **📈 Languages**
  ![ivanjtm's languages](https://wakatime.com/share/@ivanjtm/a32f83c6-d0c9-49a4-a5ae-d0440b950377.svg)
