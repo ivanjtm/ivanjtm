@@ -27,18 +27,17 @@
 🕑︎ Time Zone: America/Monterrey
 
 💬 Programming Languages: 
-JavaScript               37 mins             █████████████████████████   99.45 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  37 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      37 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 15/05/2024 06:02:40 UTC
+ Last Updated on 15/05/2024 07:02:33 UTC
 <!--END_SECTION:waka-->
 **📈 Languages**
  ![ivanjtm's languages](https://wakatime.com/share/@ivanjtm/a32f83c6-d0c9-49a4-a5ae-d0440b950377.svg)
