@@ -19,8 +19,29 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-982%20hrs%205%20mins-blue)
 
- Last Updated on 15/06/2024 07:02:14 UTC
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Monterrey
+
+💬 Programming Languages: 
+PHP                      3 hrs 44 mins       █████████████████░░░░░░░░   69.56 % 
+JavaScript               1 hr 24 mins        ███████░░░░░░░░░░░░░░░░░░   26.09 % 
+Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+
+🔥 Editors: 
+VS Code                  5 hrs 22 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      5 hrs 22 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 15/06/2024 08:02:41 UTC
 <!--END_SECTION:waka-->
 **📈 Languages**
  ![ivanjtm's languages](https://wakatime.com/share/@ivanjtm/a32f83c6-d0c9-49a4-a5ae-d0440b950377.svg)
