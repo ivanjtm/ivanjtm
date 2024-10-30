@@ -19,7 +19,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C012%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C014%20hrs%2011%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -27,17 +27,19 @@
 🕑︎ Time Zone: America/Monterrey
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 hr 7 mins         ████████████████████████░   96.77 % 
+PHP                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 10 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 10 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 30/10/2024 07:02:44 UTC
+ Last Updated on 30/10/2024 08:03:06 UTC
 <!--END_SECTION:waka-->
 **📈 Languages**
  ![ivanjtm's languages](https://wakatime.com/share/@ivanjtm/a32f83c6-d0c9-49a4-a5ae-d0440b950377.svg)
